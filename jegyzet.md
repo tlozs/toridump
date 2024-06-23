@@ -1,0 +1,781 @@
+# 1. Károly Róbert
+- 1301-ben Árpád ház kihal
+- interregnum
+- kiskirályok - Csák Máté (atlasz)
+- koronázás szertartásrendje: esztergomi érsek, fehérváron a szent koronával
+- bárók kijátszása egymás ellen: 1312 rozgonyi csata Aba Amádé (atlasz)
+- új bárói réteg - honorbirtok, királyi/bárói bandériumok
+- gazdasági reformok:
+    - urburareform - 10% egyharmada a birtokosé
+	- nemesfém-monopólium - 90% be kell szolgáltatni, a fele visszajön pénzérmeként
+	- pénzverési monopólium - értékálló aranypénz firenzei mintára: forint
+	- kapuadó - kamara haszna helyett, jobbágytelkenként, pénzben (első állami adó)
+	- harmincadvám - külkereskedelmi vám, pénzben
+- hatások: fellendülő bányászat árutermelés, kereskedelem (arany, nyersanyag <-> iparcikkek nyugatról)
+- városfejlődés - erősödő polgárság: 
+    - **szabad királyi városok** (*Buda, Pest, Sopron, Pozsony, Nagyszombat, Kassa, Bártfa, Eperjes*):
+        - közvetlen a király alatt, nem része a vármegyerendszernek
+        - követek az OGY-be, egyösszegű adó, árumegállító jog, vámmentesség, városfal, önkormányzat, tárnokmester bíráskodik
+    - **bányavárosok** (*Erdélyben: regex_is_match(.\*bánya), Selmecbánya, Körmöcbánya*): 
+        - lakók arany és sóbányászattal foglalkoznak
+        - királynak adóztak (urbura) vámmentesség, önkormányzat
+    - **mezővárosok** (*Alföldön: Debrecen, Kecskemét*):
+        - lakók mezőgazdasági árutermeléssel foglalkoznak
+        - vásártartás joga, egyösszegű adózás
+        - földesúr birtokának számít: lakói jobbágyok
+- visegrádi királytalálkozó 1335 (atlasz): cseh, lengyel és magyar király szövetsége
+- dinasztikus külpolitika: háború helyett diplomáciai kapcsolatok és házassági szerződések
+    - felesége a lengyel király testvére
+    - lengyel király halála után Károly Róbert idősebbik fia örökli a lengyel trónt (*Nagy Lajos*)
+    - nápolyi házassági szerződés: nápolyban uralkodik Károly Róbert másik fia (*András*)
+
+# 2. Földrajzi felfedezések, korai kapitalista gazdaság
+- gazdasági okok: növekvő népesség -> élelmiszer és nyersanyaghiány + aranyéhség
+- geocentrikus világkép, térképek, iránytű, karavella
+- **első hullám** (portugálok):
+    - Afrika partjai mentén telepek: Diaz, Vasco da Gama (atlasz)
+    - később: Kína és Japán, Brazília
+    - közvetlen kereskedelem ázsiával (selyemút és a levantei út helyett)
+- **második hullám** (spanyolok):
+    - 1492 Kolumbusz Kristóf: Amerika (Amerigo Vespucci jön rá)
+    - Magellán egy hajója körbehajózta a földet (atlasz)
+    - tordesillasi és zaragozai szerződés
+    - konkvisztádorok: aztékok - Cortez, inkák - Pizzaro, maják
+    - gyarmatokon arany és ezüstbányák, ültetvények
+    - munkaerő Afrikából
+    - világkereskedelem: atlanti háromszög, indiai tengeri út, Hanza út
+- gazdasági hatások:
+    - **árforradalom**: sok nemesfém - leértékelődik, mezőgazdasági termékek ára nő
+    - rövidtávon Spanyol és Portugál haszon: reprezentatív építkezés, nagyhatalmi háború - majd lehanyatlik
+    - hosszútávon ipari fejlődés Németalföld, Anglia
+    - **korai kapitalizmus**: föld helyett befektetett tőke a fontos, részvénytársaságok, vállalkozások, részvények (osztalék), tőzsde -> bankok, hitelek szerepe nő
+    - ipari fejlődés: céhek helyett manufaktúra, munkafolyamat részekre bontva, betanított bérmunkások, olcsó, gyengébb minőség
+    - mezőgazdasági fejlődés: fellendül a mezőgazdasági árutermelés, polgárosodó földbirtokosok (gentry)
+    - polgárososdó társadalom
+    - árforradalom miatt növekvő gabonaárak: növelik a majorságot és a robotot - megerősödik a feudális berendezkedés
+
+# 3. Második ipari forradalom
+- XIX. század második felétől az első világháborúig
+- nehézipar a húzóágazat
+- alapanayaghiány: fellendül a bányászat, kőolaj
+- új találmányok (átalakítják az ipari termelést és a mindennapokat):
+    - acél, aluminium
+    - vegyiparban: festékek, műanyagok, benzin, petróleum, műtrágya
+    - mezőgazdaság: traktor, cséplőgép, aratógép
+    - elektromosság: dinamó (Siemens), transzformátor (Déri, Bláthy, Zipernowsky), szénszálas izzó (Edison)
+    - kommunikáció: távíró (Morse), telefon (Bell), telefonközpont (Puskás Tivadar), rádió
+    - közlekedés: belsőégésű motor (Otto), autó (Daimler és Benz), Ford T-modell (Henry Ford, Galamb József), villanymozdony (Kandó Kálmán), villamos, troli, busz, léghajó (Zeppelin), repülő (Wright)
+gazdasági hatások:
+    - gépesítés, futószalag, sorozatgyártás: gyorsítja a munkafolyamatot
+    - gyárak
+    - jól fizetett munkások tudnak terméket venni
+    - mezőgazdaság: gépesítés és műtrágya növeli a terméshozamot, munkaerőt szabadít fel -> urbanizáció
+    - infrastrukturális fejlődés: vasúthálózat, városi tömegközlekedés, telefonhálózat
+
+
+# 4. A feudális gazdaság és társadalom jellemzői
+- feudalizmus: a vagyon alapja a földbirtok
+- hűbéres a hűbérúrnak hűbéresküt tesz, ezzel részévé válik a hűbéri láncnak
+    - hűbérúr: földet ad, cserébe szolgálatokat vár (hűség, katonáskodás)
+    - hűbéres: függőséget vállal a területért cserébe
+    - nemes: kiváltságos, katonáskodásért cserébe nem fizet adót
+    - földesúr: uradalmán élő népek felett bíráskodhat
+    - lovag: nehézlovas katona, lovagi erények (erő, bátorság, becsületesség, hűség, védelmezés, lovagi szerelem)
+        - gyerek -> apród -> fegyverhordozó -> lovag (lovaggá ütik, hűbéresküt tesz)
+        - várban, lakótoronyban, udvarházban laknak
+        - lovagi torna, vadászat, lakoma
+    - jobbágy: földet kap a földesúrtól - jobbágytelek
+        - csak használja, nem tulajdonosa
+        - használatért és védelemért cserébe kötelezettségek: adózás, ajándék, robot
+        - földesúr bíráskodik felette
+        - nem űzhető el, kötelezettségek teljesítése után szabadon költözhet
+        - veremházban lakik, egyhangú étkezés, egyházi ünnepek, kültéri játékok
+- uradalom: önellátó gazdaság
+    - jobbágyok termelik a mezőgazdasági és kézműves termékeket
+    - majorság: földesúr birtoka, jobbágyok robottal művelik
+        - udvarház/vár: itt lakik a földesúr
+    - jobbágytelek: földesúré, jobbágy használja, belső telek és külső szántó
+    - közös használatú területek: erdő, legelő, folyó, tó, malom
+- mezőgazdasági forradalom:
+    - háromnyomásos gazdálkodás
+    - zöldség, gyümölcs, szőlő
+    - új eszközök: nehézeke, borona, szügyhám, patkolás
+    - felesleg: fellendül a kereskedelem, városok alakulnak ki
+- városok:
+    - XI-XII. század
+    - kereskedőtelepek, kézművesek csatlakoznak
+    - forgalmas kereskedelmi utak, átkelők, kereszteződések (*Brügge, Oxford, Cambridge*)
+    - védett helyek (*Párizs, London, Róma*)
+    - önállóság a földesúrral szemben
+    - uralkodók jogokat adtak a támogatásért cserébe:
+        - vásártartás joga
+        - árumegállító jog
+        - egyösszegű adózás
+        - saját bíráskodás, vezetőválasztás
+        - városfal építése
+    - új réteg: polgárság
+        - önálló, mentesül a földesúri joghatóság alól, magántulajdon
+        - városi levegő szabaddá tesz
+    - részei:
+        - főtér, piactér
+        - katedrális, dóm
+        - városháza, óratorony
+        - kettős városfal
+        - kereskedő és kézművesnegyed
+    - zsúfolt, nincs csatorna -> borzalmas higiénia
+- céhek:
+    - kézművesek szakmánként szerveződő érdekvédelmi szervezetei
+    - céhszabályzat: jogok és kötelességek (munkaidő, minőség, eszközök)
+    - kevés, de jó minőségű áru
+    - inas -> legény (vándorút, mesterremek, lakoma) -> mester -> céhmester
+    - közös ünneplés, szociális segítség, városfal védelme
+- kézműipar:
+    - fejlett terület: Flandria (*Brüsszel, Gent, Brügge*), É-Itália, D-Anglia (atlasz)
+- kereskedelem: levantei (*Velence, Genova*), Hanza (*Lübeck, Bréma*), Champagne vidéke, atlanti út (atlasz)
+    - fellendül a pénzforgalom: váltók, folyószámla, utalás, hitelek
+    - bankházak: Firenze (*Medici-család*), Augsburg (*Fugger-család*)
+
+# 5. Újjáépítés a XVIII. századi Magyarországon
+- elhagyatott, kihalt, szegény területek a török és Rákóczi után
+- elindul a népességnövekedés:
+    - természetes szaporulat
+    - bevándorlás
+- belső vándorlás: magyarok, szlovákok, románok, ruszinok a peremvidékről az Alföldre
+- spontán betelepülés határon túlról a peremvidékekre
+- szervezett betelepítés: németeket - svábok
+    - előre biztosított eszközök, házak
+    - adómentesség
+    - uralkodónak hűséges emberek
+- soknyelvű és soknemzetiségű ország jön létre: nő a nemzetiségek aránya (atlasz)
+    - az ország harmada magyar, relatív többség
+    - jelentős kisebbség: román, szlovák, horvát, német
+    - nemzetiségi tömbterületek
+    - nagyjából fele római katolikus
+    - románok, szerbek főként ortodoxok
+    - protestánsok legtöbbje református - magyarok
+- 1731 Carolina Resolutio: protestáns vallásgyakorlat korlátozása, dekretális eskü
+- békés együttélés, néhány rendi, vallási ellentétek
+- társadalom vezető rétege szinte mind magyar, többi német
+- polgárság jelentős része német
+- nemzetiségek főleg jobbágyok - csonka társadalom, nincs vezető rétegük
+- németek:
+    - Árpád-kor óta szászok: evangélikus városlakók (Dél-Erdély, Felvidék)
+    - XVIII. századtól betelepített svábok: katolikus jobbágyok (Baranya és Tolna megye, budai hegyvidék, Bánság)
+szlovákok/tótok:
+    - középkor óta, katolikusok és evangélikusok
+    - Felvidék + Alföldön szigetszerűen
+    - többség jobbágy, nemességük elmagyarosodott
+- ruszinok/rutének:
+    - középkor óta, többnyire görögkatolikus
+    - Kárpátalján
+    - főként jobbágyok
+- románok/oláhok:
+    - középkor óta, ortodox, görögkatolikus
+    - a korban jelentős bevándorás Havasalföldről és Moldovából
+    - Erdély, Partium, Bánság
+    - papság adja az értelmiséget
+- szerbek/rácok:
+    - török elől menekülnek, ortodoxok
+    - Délvidék és Temesköz (Bánság) + Szentendre, Ráckeve (kereskedők)
+    - déli Határőrvidék: egyházi autonómia, cserébe katonáskodás
+- horvátok:
+    - Horvátország perszonálunió, római katolikusok
+    - teljes rendi társadalom a bán vezetésével
+- zsidók:
+    - középkortól kezdve, izraeliták
+    - kereskedelemmel foglalkoznak
+- cigányok:
+    - XIV. századtól kezdve a Balkán felől
+    - vándor életmód, különböző nyelvi csoportok
+- örmények, görögök:
+    - Balkán felől
+    - gazdag kereskedők
+    - örmények katolikusok
+
+# 6. A társadalom és életmód változásai Magyarországon 1945 után
+- Rákosi-korszak:
+    - 1949: Magyar Népköztársaság- új alkotmány, pártállami diktatúra
+    - Rákosi Mátyás pártvezető, első titkár
+    - elvben demokratikus államberendezkedés: minden szinten a párt ellenőriz
+    - személyi kultusz kiépítése:
+        - Sztálin 70. szülinapja, 70-es troli
+        - Rákosi 60. szülinapja
+        - Rákosi kép a falakon
+    - társadalom ellenőrzése:
+        - párt hagyja jóvá a szervezeteket (Népfront)
+        - mindennapi élet (öltözködés, szemináriumok)
+        - május 1, felvonulás
+        - úttörőmozgalmak: kötelező tagság
+            - úttörőtábor, úttörővasút, DISZ
+        - művészet: szocreál
+        - tudományos élet: vörös farok
+        - sajtó: pártlap, cenzúra
+        - sport szerepe: Aranycsapat, Népstadion
+    - gazdasági irányváltás:
+        - 1949: KGST - kölcsönös függőség, tervgazdaság, barterkereskedelem
+        - 1950: első ötéves terv
+            - nehézipar fejlesztése (vas és acél országa)
+            - szovjet nyersanyagfüggés
+            - ipar aránya nő, irreális célok
+            - nyersanyaghiány, forráshiány
+            - Dunaújváros (Sztálinváros) fejlesztése a kirakatprojekt
+            - fiatalok ideologiai motivációja ingyenmunkára
+            - sztachanovista életpályák
+        - békekölcsön: állampapír, kötelező vásárlás
+        - mezőgazdaság: kollektivizálás, téeszesítés
+            - propaganda, ideológiai motiváció
+            - termelési célkitűzések, termelőszövetkezetek
+
+- stb, stb, stb, füzetben benne van
+
+#  7. Géza és I. István államszervező tevékenysége
+- 972: Géza lesz a fejedelem
+- 973: I. Ottó német-római császár megerősíti a birodalmi kapcsolatokat Quedlinburgban
+    - béke a németekkel, nyugati határ a Lajta folyó
+    - kereszténység terjesztése, család megkeresztelkedik
+- 997: Géza meghal, István lesz a fejedelem
+    - Koppány szeniorátus és levirátus alapján követeli a trónt, István legyőzi
+- 1000: I. István királlyá koronáztatja magát Eszergomban
+- független magyar egyházszervezet:
+    - egyházmegyék
+    - invesztitúra
+    - Bencés Apátság Pannonhalmán 996
+    - erőszakos térítés, kötelező mise, 10 falunként templom, tized
+- államszervezés:
+    - oklevelek, pénzverés (dénár), törvények
+    - főváros: Esztergom, királyi központ: Székesfehérvár
+    - királyi vármegyerendszer (földbirtokok 2/3-a királyi birtok)
+        - várbirtok: várispán, várjobbágy (szabad katona), várnépek - védelem és katonák ellátása
+        - udvarbirtok: udvarispán, udvarnépek - királyi udvar ellátása
+        - vitézek birtokai: királynak katonáskodó szabad vitézek (szerviensek) használják
+        - egyházi birtok: püspökség, kolostor ellátása
+        - földesúri birtok: katonáskodásért cserébe kapta a földet
+    - nádor: király helyettese, bíráskodik
+    - királyi tanács: nádor, főpapok, megyésispánok
+    - királyi hadsereg: szerviensek, várjobbágyok, földesurak magánhadserege
+
+# 8. Változások a XIII. századi magyar társadalomban
+- II. András 1205-1235
+- királyi hatalom meggyengül
+    - birtokeladományozás, pénzrontás, vámok bérbe adása
+    - bárók összeesküvése: Gertrúd meggyilkolása
+    - eredménytelen hadjáratok, drága és hiábavaló kereszteshadjárat
+- széleskörű elégedetlenség, katonáskodó rétegek háttérbe szorulnak: bárók, szerviensek és várjobbágyok összefogtak
+- 1222: Aranybulla kiadása:
+    - kedvez a szervienseknek:
+        - személyi szabadság
+        - katonáskodásért cserébe adómentesség
+        - háramlási jog: végrendelkezés
+        - csak védekezésre kötelesek hadba vonulni
+    - kedvez a báróknak:
+        - vármegyék adományozása betiltva
+        - méltőságok halmozása betiltva
+        - idegenek hivatalviselése és birtokszerzése betiltva
+    - várjobbágyok, hospesek csak általánosan vannak védve
+    - idegenek (zsidó, muzulmán) hátrányos megkülönböztetése
+    - ellenállási záradék: joguk van ellenállni, ha a király megszegi
+- azonos jogokkal rendelkező társadalmi csoportok alakulnak ki - rendiség kezdete
+- nemesség sarkalatos jogainak hivatkozási alapja
+
+# 9. A reformmozgalom fő kérdései és eredményei az áprilisi törvényekig
+- Széchenyi István: 1825-ben egyévi jövedelme MTA-ra
+    - könyvei: Hitel, Világ, Stádium
+    - nemesnek nem ad pénzt a bank (birtok lenne fedezet, de az nem eladható)
+    - robotot végzők gyengébben dolgoznak mint a napszámosok
+    - gazdasági változásból társadalmi változás
+    - hitel -> ősiség eltörlése -> feudális viszonyok eltörlése -> közlekedés fejlesztése
+    - szükség van magyar iparra: céhrendszer megszüntetése
+    - ^liberális megközelítés
+    - magyar államnyelv (nacionalizmus)
+    - változásokat a bécsi udvarral együtt kell véghezvinni
+    - nyilvánosság megteremtése
+    - lassú fejlődés: konzervatív
+    - lóverseny, kaszinó: nemesek találkoznak - nyilvánosság
+    - duna hajózhatósága (Vaskapu), gőzhaóközlekedés
+    - tisza szabályozásának ötlete
+    - Lánchíd
+reformországgyűlések:
+    - 1832-36: meg kell oldani a jobbágykérdést
+        - reformtábor: Kölcsey, Deák
+        - önkéntes örökváltság: jobbágy megválthatja magát
+        - Kossuth: Országgyűlési Tudósítások - magánlevél formájában fejlemények megírása - nyilvánosság
+    - V. Ferdinánd az uralkodó, helyette Metternich, a kancellár irányít
+    -1839-40:
+        - alsótábla többsége reformtábor: vezetőjük Deák
+        - felsőtáblán: Batthyány vezetésével
+        - amnesztia a politikai foglyoknak
+        - OGY írott nyelve a magyar
+        - önkéntes örökváltság megszavazása: drága ezért nem csinálja senki
+    - liberális reformtábor: Kossuth, Deák, Batthyány
+        - Pesti Hírlap: jótollú újságíró, vezércikk
+        - kötelező örökváltság: állam kárpótol, közteherviselés
+        - politikai változás hozza a gazdasági változásokat
+        - gyorsabb, radikálisabb átalakulás
+        - birodalmon belüli szabadság (függetlenség Bécstől)
+        - jogkiterjesztés megvalósítja az asszimilációt
+    - 1843-44: hivatalos államnyelv a magyar
+    - 1847: Ellenzéki Nyilatkozat - polgári alkotmányosság, szabad választások, magyar kormány, sajtószabadság, feudális viszonyok megszüntetése
+    - 1848 márc 15: forradalom, 12 pont
+    - Batthyány-kormány alakul (vegyes, koalíciós kormány):
+        - Batthyány Lajos miniszterelnök
+        - Szemere Bertalan belügyminiszter
+        - Eszterházy Pál király személye körüli miniszter
+        - Klauzál Gábor földműv, ipar, kereskedelmi miniszter
+        - Kossuth Lajos pénzügyminiszter
+        - Mészáros Lázár hadügyminiszter
+        - Széchenyi István közmunka és közlekedésügyi miniszter
+        - Eötvös József kultuszminiszter
+        - Deák Ferenc igazságügyi miniszter
+    - áprilisi törvények:
+        - április 11-én fogadják el
+        - kötelező örökváltság: nincs konkrét kártalanítás
+        - közteherviselés
+        - jogegyenlőség
+        - vallásszabadság: keresztény felekezetek egyenlősége
+        - polgári szabadságjogok: szólás, sajtó, gondolati szabadság
+        - Magyarország egyesítése Erdéllyel és a Határőrvidékkel
+        - abszolút királyságból alkotmányos királyság
+        - szétválasztott hatalmi ágak: kiterjesztett választójog, ellenjegyzés, fellebbezés
+    - Pragmatica Sanctio óta a két birodalomfél elválaszthatatlan: királyi felségjogok
+
+# 10. Politikai és gazdasági konszolidáció Magyarországon az 1920-as években
+- ellenforradalmi: kommunistaellenes, szembenáll az Őszirózsás forradalommal és a Tanácsköztársasággal
+- konszolidáció: hatalom megszerzése és kiépítése, megszilárdítása
+- 1920 márc 1-én Horthyt kormányzóvá választja a nemzetgyűlés, egyre szélesedő jogkörökkel
+- Teleki Pál miniszterelnöksége (1920-21):
+    - 1920 földreform Nagyatádi Szabó István földművelésügyi miniszter vezetésével
+        - nő a kisbirtokok száma, nem elég a megéléshez
+        - kevés embernek van nagybirtoka, ez a rendszer megmarad
+        - a többség nem jut elég földhöz
+        - politikailag sikeres (meggyőzi az embereket), de gazdaságilag nem
+    - 1920 numerus clausus: egyetemi felvételi szabályozása
+    - tiszti különítmények feloszlatása
+    - kommunista párt betiltása
+    - Habsburg-ház trónfosztása
+- Bethlen István miniszterelnöksége (1921-31):
+    - politikai konszolidáció:
+        - kiegyezés a szocdemekkel: Bethlen-Peyer paktum
+        - Egységes Párt: kormányt támogató gyűjtőpárt, dualizmushoz hasonló pártrendszer
+        - korátozott választójog: vagyoni és műveltségi cenzus, nyílt szavazás
+        - kétkamarás rendszer visszaállítása
+        - autoriter rendszer jön létre
+    - gazdasági helyreállítás:
+        - tőkebevonás: adók, kölcsön - népszövetségi kölcsön, politikai feltételekkel
+        - 1927-ben pengő a korona helyett
+        - Magyar Nemzeti Bank: jegybank létrehozása
+        - gazdaság talpraáll: könnyűipar kerül előtérbe (szerkezetváltás)
+
+# 11. A felvilágosodás államelméletei: a brit alkotmányos monarchia és az amerikai köztársaság működése
+- 1689 Jognyilatkozat: parlament ellenőrzi a királyt
+- polgárjogok rögzítése: sajtószabadság, vallásszabadság, gyülekezési jog, szólásszabadság
+- állam és uralkodó viszonya: alkotmány
+- alkotmányos monarchia: királyi hatalom korlátozott, parlament ellenőrzi
+- választási rendszer:
+    - választókerületenként többségi elven képviselők, cenzusos választójog
+    - kétkamarás Parlament: alsóház - Képviselők háza, felsőház - Lordok háza (öröklött címek)
+    - whig (liberális) és tory (konzervatív) frakció
+    - király megnyitja/feloszlatja a Parlamentet, meghívja a Lordok háza tagjait, halasztó vétóval rendelkezik és szentesíti a törvényeket, kinevezi a miniszterelnököt
+    - a Parlament választja és ellenőrzi a felelős kormányt, ami irányítja az ügyeket
+    - független bíróság: bíró és esküdtek
+- 1787 USA alkotmánya: újkori polgári demokrácia
+- kétszintű államszervezet: prezidenciális köztársaság
+- tagállami közigazgatás:
+    - cenzusos választójog: kormányzó - helyi törvények, közigazgatás
+- szövetségi törvényhozás:
+    - képviselőház: képviselő többségi elv szerint, tagállamonként lakosságarányosan
+    - szenátus: tagállamonként 2 szenátor
+- végrehajtó hatalom:
+    - tagállamonként lakosságarányosan elektorok: elnököt választják
+    - elnök kezében a szövetségi kormány: hadügy, pénzügy, külügy, szövetségi ügyek
+- 1971-ig elfogadott első 10 alkotmánymódosítás a Bill of Rights
+    - vallás, szólás, gyülekezés, fegyverviselés
+
+# 12. Kiegyezés
+- 1867 Osztrák-Magyar Monarchia: kétközpontú dualista állam
+- Ferenc József király, független magyar kormány Andrássy vezetésével
+- a két államot az uralkodó és a közös ügyek kötik össze
+- Magyarország alkotmányos királyság, hatalmi ágak szétválasztva
+- uralkodó feloszlathatja az OGY-t: utána kötelező választások
+- előszentesítési jog, ellenjegyzési jog
+- választási rendszer: 
+    - felsőház: főnemesek, főpapok, főispánok személyesen, kormány delegálhat
+    - alsóház: vagyoni cenzusos választójog (szegény parasztság kizárva, nemzetiségek), nyílt szavazás, kormánypártnak kedvező választókerületek
+    - dualizmust ellenző párt nem nyerhet: stabil de változni nem képes rendszer
+- 1868-ban horvát-magyar kis kiegyezés
+    - Magyarország része marad
+    - széleskörű önállóság az országon belül
+    - Fiume kérdése: magyaroknak kell kikötő
+- főispáné a vármegyei szintű végrehajtás
+- igazságszolgáltatás: jogegyenlőség, ártatlanság vélelme, többszintű bíróság
+- egyesítések: közös posta, vasút, pénz (korona), közös vámhatárok
+- Eötvös József 1868 nemzetiségi törvény:
+    - elismerik a szabadságjogokat, de a kollektív jogokat nem (autonómia, önkormányzat)
+    - ügyintézéskor saját nyelvet lehet használni
+    - államnyelv magyar
+    - nemzetiségi középiskolák, de felsőoktatás csak magyarul
+- Eötvös József 1868 népiskolai törvény:
+    - tankötelezettség
+    - Ratio Educationis hagyományai
+    - kötelező tanterv, érettségi szabályozása, állam a fenntartó
+
+# 13. A mai Magyarország politikai intézményrendszere
+- állam működését alkotmány szabályozza: legmagasabb szintű jogszabály, minden ezzel összhangban
+- 2012 Alaptörvény
+    - keresztényég, történelem, nemzet, egyéni és kollektív jogok értéke fontos
+    - képviseleti demokrácia, köztársaság, független, demokratikus jogállam
+    - szétválasztott hatalmi ágak: OGY a legfontosabb -> parlamentális köztársaság
+- választási rendszer:
+    - általános, titkos, közvetlen, egyenlő és önkéntes
+    - OGY által választott Nemzeti Választási Bizottság irányítja
+    - választások: ogy, önkormányzati, ep, népszavazás
+- országgyűlési választás:
+    - 199 képviselő
+        - 106 mandátum területalapú
+        - 93 mandátum országos pártlistáról (legalább 27 kerületi képviselő esetén)
+    - töredékszavazat:
+        - veszteskompenzáció: területi mandátumot nem nyerő szavazatok a pártlistához adódnak
+        - győzteskompenzáció: első két helyezett szavazatkülönbsége hozzáadódik a pártlistához
+    - legalább 5%-os támogatottság szükséges
+    - határon túli magyar pártlistára szavazhat
+- OGY működése:
+    - elnöke Kövér László
+    - képviselők mentelmi joggal
+    - törvényalkotás 2/3-addal alkotmány vagy sarkalatos törvény, 50%+1-el sima törvény
+        - kezdeményezés: kormány, államfő, képviselő, bizottság
+        - kidolgozás: kormány, bizottság megtárgyalja
+        - beterjesztés írásban az OGY elnökének
+        - többi bizottság is megtárgyalja - szakmai szűrő
+        - vita: koncepcionális kérdések, vélemények, módosító javaslatok
+        - zárószavazás
+    - személyek választása:
+        - köztársasági elnök
+        - miniszterelnök
+        - Alkotmánybíróság tagjai
+        - Kúria elnöke, legfőbb ügyész
+- köztársasági elnök:
+    - törvények aláírása/halasztó vétó
+    - választások kiírása
+    - hadsereg főparancsnoka
+    - reprezentatív szerep, állam képviselete
+- alkotmánybíróság:
+    - törvények összhangja az alkotmánnyal
+    - köztársasági elnök normakontrollra küldheti a törvényt
+    - jogértelmező szerep ellentmondás esetén
+- kormány:
+    - miniszterelnök vezeti: Orbán
+    - végrehajtó hatalom, felelős kormány
+    - tagjai a miniszterek, államtitkárok
+    - OGY törvények végrehajtása, rendeletalkotás
+- bíróság:
+    - többszintű rendszer, legfelső a Kúria
+- ügyészség:
+    - vádeljárás során képviseli az államot, minden bírósági szinten
+    - büntetőügyek
+    - vezetője a legfőbb ügyész
+- Állami Számvevőszék: állami intézmények és pártok, kampányköltségek ellenőrzése
+- MNB:
+    - Matolcsy György vezeti
+    - központi bank: fedezet tárolása, bankrendszer működését szabályozza, kereskedelmi bankok ellenőrzése
+    - jegybank: pénzt nyomtat és a monetáris politikát szabályozza
+- alapvető jogok biztosa (ombudsman): jogsértés, jogkorlátozás ellenőrzése
+- települési önkormányzatok:
+    - választott testület: képviselő-testület, polgármester - rendeletalkotási jogok
+    - saját rendeleteit ellenőrzi és betartatja
+    - jegyző: adminisztratív vezető
+
+# 14. Monoteista világvallások
+- zsidó vallás:
+    - mítoszok a Bibliában: teremtéstörténet, Ádám és Éva, bünbeesés, Káin és Ábel, özönvíz, Bábel tornya
+    - Ábrahám és Izsák története
+    - Mózes kivezeti a népet Egyiptomból: tízcsapás, tenger szétválasztása
+    - Sínai-hegy tízparancsolat, erkölcsi törvények
+    - az ígéret földjén (Izrael) Dávid király egyesíti a törzseket és Jeruzsálemet fővárossá teszi
+    - Salamon temploma
+    - Tóra: Mózes öt könyve
+    - monoteizmus: Jahve, közvetítők: próféták
+    - vallási előírások: ima, kóser ételek, szombat, körülmetélés, 
+    - ünnepek: hanuka, peszah
+    - 70 felkelés, rómaiak lerombolják a templomot (Siratófal), zsidók szétszóródnak
+    - rabbik: talmud, zsidó jog, vallási élet, zsinagógák
+- kereszténység:
+    - Jézus élete: Evangéliumok írják le
+    - Jordánban megkeresztelkedik, 12 apostol, tanítványok (hegyi beszéd)
+    - tanításai: szeretet, megbocsátás, szegények segítése
+    - csodák: betegek gyógyítása, halottak feltámasztása
+    - utolsó vacsora, keresztre feszítés, feltámadás
+    - apostolok: Pál, Péter, János
+    - egyház (Szent Péter): pápa, érsek, püspökök, papok
+    - keresztény ünnepek: karácsony, húsvét, pünkösd
+    - keresztény vallási élet: keresztelés, házasság, gyónás, áldozás
+    - Constantinus jóváhagyja (milánói ediktum), Theodosius államvallássá teszi
+    - 325 niceai egyetemes zsinat: dogmák, kánon, ünnepek időpontja, eretnekek
+- iszlám:
+    - Arab-félszigeten nomád törzsek
+    - Mohamed:
+        - Gábriel arkangyal elhívja prófétának
+        - 622 hidzsra: Mekkából Medinába, időszámítás kezdete
+    - egyetlen Isten Allah: tanítások a Koránban (öt pillér)
+        - hit Allahban és Mohamedben
+        - napi 5 ima Mekka felé
+        - 30 nap böjt: ramadán
+        - kötelező alamizsna szegényeknek
+        - zarándoklat Mekkában a Kába-kőhöz
+    - előírások: emberábrázolás tiltott, alkohol, sertés tiltott, többnejűség, öltözködés, dzsihád
+    - Mohamed utódai a Kalifák
+    - műveltség: matek, csillagászat, földrajz, filozófia
+    - imám, kádi, sária, müezzin
+    - mecset, dzsámi, minaret
+    - síita vs szunnita
+
+# 15. A nemzetszocialista Németország
+- weimari köztársaság: 
+    - 1918-ban II. Vilmos lemond, köztársaság kikiáltása
+    - gazdasági válság, hiperinfláció, francia megszállás
+    - szocdem kormányok: teljesítési politika
+    - 1924 Dawes-terv: német gazdaság helyreállítása
+- Hitler és a náci ideológia:
+    - 1920 NSDAP: nemzeti szocialista német munkáspárt
+    - 1923 sikeretlen sörpuccs:
+        - tárgyalás = népszerűség
+        - börtönben Mein Kampf
+        - erőszak helyett választások
+    - fajelmélet: 
+        - gén alapján különböző rendű fajok (szélsőséges szocialdarwinizmus)
+        - kultúrateremtő fajok: germánok (árja), angol, francia, olasz (elkorcsosult)
+        - kultúrahordozó fajok: közép-európai és szláv népek (magyarok)
+        - kultúraromboló fajok: zsidók, cigányok, színesbőrűek
+        - zsidóság az ideális bűnbak: antikapitalista, antimarxista, antiliberális, antidemokrata hitleri ideológia ellensége
+        - ellenség, aki akadályozza a tiszta öröklődést: buzik, örökletes betegségek, fogyatékosok
+    - NSDAP programja:
+        - területi követelések: Anschluss + Lebensraum
+        - elutasítja a versailles-i békeszerződést
+        - ^nemzeti, soviniszta követelések
+        - passzív jövedelem eltörlése, cégek államosítása, nyereség elosztása, kisiparosok támogatása - szocialista követelések (de nem marxista)
+        - zsidóságra fajként tekint: jogfosztás, kirekesztés, gettósítás, holokauszt
+        - erő és vezérkultusz: Führer-elv - a vezérhez kell ragaszkodni
+    - gazdasági világválság hatására a nácik népszerűsége nő
+    - 1932-re relatív többség
+    - 1933 jan 30: Hitler kancellár
+    - 1933 febr: Reichstag felgyújtása, kommunisták betiltása
+    - 1933 márciusában új választások: 43% a náciknak
+        - felhatalmazási törvény: Hitler rendeleti jogot kap
+    - vészhelyzeti intézkedések:
+        - szabadságjogok korlátozása: sajtó, gyülekezés, szólás
+        - demokratikus pártok feloszlatása: politikai ellenfelek bebörtönzése (Dachau)
+    - leszámolás az SA-val és a belső ellenfelekkel: hosszú kések éjszakája
+    - Hindenburg halálával köztársasági elnök is lesz
+    - 1935 nürnbergi törvények: zsidók jogfosztása (állampolgárság, házasság, munkahely)
+    - 1938 kristályéjszaka: zsidók elleni állami pogrom
+    - élet a náci Németországban:
+        - helyreáll a gazdaság: fegyverkezés, munkahelyteremtés
+        - nő az életszínvonal
+        - társadalom ellenőrzése: korporatív szervezetek, munkafront, Hitlerjugend, SS, Gestapo
+        - mindent átható ideológia és propaganda: Goebbels, egyszerű, kulcsszavas, szónoklat, látványos tömegrendezvények
+        - berlini olimpia: propagandakampány, nagyszerűség sugárzása
+    - külpolitika:
+        - békék revíziója
+        - 1933: Németország kilép a népszövetségből
+        - 1935: általános hadkötelezettség, fegyverkezés, flottaegyezmény
+        - 1935: Saar-vidék visszacsatolása népszavazással
+        - 1936: Rajna-vidék visszafoglalása
+        - 1938: Anschluss
+        - érdemes terjeszkedni: antant el akarja kerülni a háborút
+
+# 16. A marxista eszme és a sztálini diktatúra jellemzői
+- Marx:
+    - történelem kettősége: tőke és munka ellentéte
+    - burzsoázia: kizsákmányolás, tőkehalmozás
+    - proletariátus: forradalom, osztálytudat
+    - kommunizmus: osztályok megszűnése, osztálytalan társadalom
+    - szocializmus: átmenet, államosítás, központi tervezés
+    - munkások diktatúrája: proletariátus hatalma
+- Lenin:
+    - bolsevizmus: marxi, de proletariátus nincs, helyette a párt vezeti a forradalmat (permanens forradalom)
+    - 1917 október: bolsevik forradalom
+    - 1918: polgárháború, vörös hadsereg (Trockij)
+    - forradalom exportja
+    - 1922: SZU megalakulása - egypártrendszer, pártállami diktatrúa, de elvben demokratikus alkotmány
+    - NEP: új gazdaságpolitika, kisiparosok támogatása
+- Sztálin és Trockij hatalmi harca: Sztálin nyer, diktátor
+- 1928 első ötéves terv:
+    - tervgazdaság, központi tervezés, államosítás
+    - modernizáció, iparosítás (nehézipar fejlesztése)
+    - realitások helyett elvárások: tőke és munkaerőhiány
+    - pénz helyett ideológiai motiváció: sztachanovista munkaverseny
+    - kollektivizáció: mezőgazdaság államosítása, kolhozok - aki ellenáll az kulák
+    - 1932-33: nagy éhínség - gerjesztett, holodomor
+- jelentős ipari fejlődés:
+    - nehézipar, erős hadsereg
+    - modernizáció: villamosítás, infrastruktúra, mezőgazdaság gépesítése
+    - életszínvonal romlik: hiánygazdaság, társadalom szétrombolása, terror és éhezés
+- terror:
+    - megfélemlítés, ellenségkép magyarázza a diktatúrát
+    - osztályellenesség -> nagy tisztogatás -> deportálások, tömeggyilkosságok
+    - Gulag: kényszermunkatáborok, iszonyú munkakörülmény, magas halálozás, infrastruktúraépítés
+    - NKVD: titkosrendőrség, kémelhárítás, belső ellenőrzés
+- személyi kultusz:
+    - kommunista ideológia = megkérdőjelezhetetlen vallás
+    - Sztálin mint a nép atyja, bölcs vezér, tanító
+    - művészet, irodalom, történelem átírása
+    - vörös farok: filmek, könyvek, fényképek
+    - szocialista realizmus: propagandisztikus művészet
+
+# 17. Törökellenes küzdelmek a XVI. században a drinápolyi békéig
+- Hunyadi Mátyás után II. Ulászló trónra lépése (1490-1516)
+    - Dobzse: gyengekezű, központi hatalom gyenge, kimerül a kincstár
+    - erősödő de megosztott rendek, bárók (Szapolyai)
+- II. Lajos (1516-26)
+    - tovább erősödő belső viszályok, üres pénztár, romló végvárak
+    - Szulejmán alatt oszmán birodalom fénykora, erős modern hadsereg, terjeszkedés
+    - 1521 Nándorfehérvár eleste, Tomori Pál vezeti a védőket
+    - 1526 augusztus 29 mohácsi csata: II. Lajos halála, magyar vereség, Szapolyai elkésik
+    - trónkövetelők: Habsburg Ferdinánd (főnemesek, házassági szerződés), Szapolyai János (köznemesek, rákosi végzés)
+    - 1527-28: háborúk, Szapolyai megerősödik, hűbéresküt tesz
+    - 1529: első török ostrom Bécset, sikertelen
+    - 1532: Kőszeg ostroma (Bécs felé)
+    - erőegyensúly a török és a Habsburgok között
+    - 1538 váradi béke, titkos záradék: Szapolyai halála után Ferdinánd örökli a trónt
+    - Szapolyai halálos ágyán fia születik, János Zsigmond (Fráter György képviseli)
+    - 1541 Szulejmán elfoglalja Budát
+    - 1551 kisérlet az egyesítésre, Fráter lemondatja János Zsigmondot
+    - 1552 uj török hadjárat: Temesvár (Kara Ahmed), Drégely (Ali pasa), Eger
+    - 1566 Szigetvár ostroma: Zrínyi Miklós, Szulejmán halála
+    - 1568 drinápolyi béke: 3 részre szakad Magyarország, rögzíti a status quót
+
+# 18. A trianoni békediktátum születése, tartalma, következményei
+- 1919-ben elkezdődnek a béketárgyalások
+    - a Tanácsköztársaság bukása után sincs kit meghívni
+    - 1920 januárjában utazik ki a magyar delegáció
+- Apponyi Albert a delegáció vezetője, Teleki Pál is tagja
+    - vörös térkép: dominancia érzékeltetése (valójában 50% a magyarok aránya)
+    - erkölcsi érvek: világbéke, jövő, közös álláspont
+    - gazdasági érvek: fejlődés megvonása, öszzeomlás
+    - politikai érvek: nem volt teljes befolyás az OMM ügyeibe
+    - nemzetiségi érv: határon túlra kerülők harmada magyar
+    - faji érv: új gazdák alacsonyabb faji fokon
+    - nemzeti önrendelkezés elve: népszavazásra hajlandóság
+    - földrajzi érv: egység, nem lehet határt húzni
+    - történelmi érv: ezer éve
+- érveknek semmi hatása, békediktátum, elfogadhatatlan béke
+- cél a németeket és oroszokat visszaszorító államok erősítése: katonai és gazdasági érvek a magyarok ellen
+- 1920 június 4-én 16:32 perckor, külön kormány a béke elfogadására Simonyi-Semadan Sándor
+- rendelkezések:
+    - hadseregkorlátozás: modern fegyvernemek nem, létszámkorlát
+    - jóvátétel
+    - területi előírások
+- Sopron népszavazás kizsarolva
+- elcsatolt területek többsége nem magyar, de sok a határ menti magyar és több mint 3 millió külföldön
+- Magyarország homogén nemzetállam lesz
+- gazdasági hatás:
+    - jelentős mezőgazdasági területek elvesztve
+    - a Budapesti kapacitás nagyrésze alapanyag nélkül
+    - OMM közös piaca felbomlott
+    - élelmiszeripar becsődöl, munkanélküliség
+    - bányák nagy része utódállamokhoz kerül (Felvidék, Erdély)
+    - nehézipar jeletős része is elveszik
+    - iparvidék ittmarad, de alapanyaghiány
+- infrastruktúra:
+    - vasútvonalak nagyja elveszik, sugaras hálózat marad
+    - vasúti kocsik és minden ami mozdítható, az jóvátételként elmegy
+    - folyók vízgyűjtő területei utódállamoknál: árvízvédelem, Duna hajózhatósága
+- településszerkezet:
+    - gazdaságilag és történelmileg fontos városok kívül
+    - város és agglomerációja elvágva
+    - egyközpontú, Budapest elszívja a munkaerőt
+- menekültkérdés:
+    - százezrek menekülnek Magyarországra
+    - ingatlan nélküliek, államtól várnak megoldást
+    - maradék vasúti kocsikban laknak
+- az ország gazdaságilag működésképtelen, cél a revízió
+    - etnikai revízió a magyar többség visszacsatolása
+    - teljes revízió (irredenta) minden visszaállítása, nem reális, de a hivatalos elképzelés
+
+# 19. Magyarország a második világháborúban
+- Gömbös óta erősödő jobbratolódás, gazdasági és politikai függés
+- **Imrédy Béla** (1938-39):
+    - kormánypárt erősödik, nyit a szélsőjobb felé
+    - 1938 május: első zsidótörvény
+        - vallási alapú
+        - jogkorlátozó: zsidóság arányának limitálása kamarákban
+    - Teleki Pál külügyminiszter
+    - müncheni konferencián Csehszlovákaiával szembeni területi igény
+    - első bécsi döntés: Felvidék déli része + Kárpátalja déli része, etnikai revízió
+- **Teleki Pál** (1939-41):
+    - Csehszlovákia megszűnésével Kárpátalja megszállása, Hitler jóváhagyja
+    - megszállás ára: második zsidótörvény:
+        - születési alapon
+        - nürnbergi törvények átvétele
+        - értelmiségi, egyetemi zsidóság aránya korlátozva
+    - Teleki politikája:
+        - fegyveres semlegesség: katonai erőt megőrizni kimaradással lehet
+        - területi revízió csak német támogatással lehet- ellentmond a semlegességnek
+        - elutasítja a Magyarországon áthaladó német csapatokat
+    - 1940: második bécsi döntés: Észak-Erdély visszacsatolása, atrocitások
+    - cserébe csatlakozás a háromhatalmi egyezményhez
+    - örökbarátsági szerződés Jugoszláviával
+    - 1941: Jugoszlávia megtámadása az országon keresztül, Teleki öngyilkos lesz
+- **Bárdossy László** (1941-42):
+    - Jugoszlávia megtámadása: Bácska, Muraköz, Muravidék
+    - legnagyobb kiterjedés a háború alatt: majdnem dupla terület, 1944-ig
+    - német villámháború Oroszország ellen
+        - részt kell venni, csak minimális veszteségek és megmarad a katonai erő
+        - Románia részt vesz, Erdély sorsa kérdéses
+        - több terület reménye
+    - 1941 június 26: Kassa bombázása, válaszul 27-én hadüzenet
+    - 1941 gyorshadtest: kerékpáros és huszár (megmarad az erő) - felmorzsolódik
+    - 1941-42 megszállás Ukrajnában: stratégiai pontok őrzése, harc a partizánokkal
+    - 1942 nyarán második magyar hadtest:
+        - 200k fő, haditechnika nagyja
+        - munkaszolgálatosok
+        - nem megfelelő fegyverzet, ellátás
+        - német irányítás alatt
+    - 1943 január: Don-kanyar, szovjet áttörés, a sereg elveszik
+**Kállay Miklós** (1942-44):
+    - hintapolitika: lehető legkevésbé hasznos szövetséges
+    - titkos tárgyalások a kilépésről
+    - nyíltan látványos szövetséges: II. magyar hadsereg, erőfeszítések
+    - 1944 március: német megszállás, Kállay lemond
+**Sztójay Döme** (1944):
+    - ország erőforrásai háborús célokra, kiterjesztett hadkötelezettség
+    - magyar karhatalom segítségével deportálások, holokauszt
+    - szövetségesek katonai célpontokat bombáznak
+    - Kárpátokban védelmi tervek, feltartja a szovjeteket, majd délrők kerülnek
+    - Torda, Hortobágy: harcok, visszavonulás
+**Lakatos Géza** tábornok (1944):
+    - hajlandóság tárgyalásra a szovjetekkel
+    - fegyverszüneti megállapodás
+    - kiugrási kísérlet, német megszállás
+    - Horthy kinevezi Szálasit, majd lemond
+**Szálasy Ferenc** (1944):
+    - nemzetvezető: miniszterelnök, államfő egyszerre
+    - bábállam, totális háború
+    - Budapest ostroma: sikeres védelem, elhúzódó harcok, város elpusztul
+- atrocitások, trauma, málenkij robot
+- holokauszt Magyarországon
+
+# 20 Hidegháború és a kétpólusú világ
+- USA és Szovjetunió szuperhatalmak
+- ENSZ: békefenntartás, háború elkerülése
+- Sztálin célja a birodalomépítés
+- Churchill beszéde Fultonban: vasfüggöny, fegyverkezve béke -> hidegháború
+- USA külpolitikája: Marshall-segély, NATO, Truman-doktrína
+- Szovjetunió külpolitikája: Zsdanov-doktrína, KGST, Varsói Szerződés
+- folyamatos fegyverkezési verseny
+- német kérdés:
+    - megszállási zónák, majd egyesítik
+    - berlini válság: blokád, légi híd
+    - NDK és NSZK
+- Sztálin halála után Hruscsov: desztálinizáció, amnesztia, gulagok felszámolása, berlini felkelés
+- 1961 berlini fal
+- életmód és kultúra:
+    - felrúgott társadalmi konvenciók, sokszínűség, fogyasztói társadalom
+    - rock and roll, beat, hippik
+    - szexuális forradalom
+    - pacifizmus, polgárjogi mozgalmak
+- 1964 Brezsnyev: dogmatikus, szilárd kommunista berendezkedés
+- Brezsnyev-doktrína: korlátozott szuverenitás, lényeg hogy a szovjet befolyás megmaradjon
+- 1968 prágai tavasz: reformok, szovjet beavatkozás
+- 1970-es évek: enyhülés, SALT, Helsinki, Charta 77, német alapszerződés
+- 1980-as évek: Reagan, olajválság, innovatív ágazatok fellendülése, szovjet gazdaság lemarad, gerontokrácia
+- 1985 Gorbacsov: peresztrojka, glasznoszty, új politikai irány, szovjet gazdaság reformja
+- sorra dőlnek a kommunista rendszerek, 1989 berlini fal, 1991 szovjetunió felbomlik
